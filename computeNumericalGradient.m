@@ -1,3 +1,5 @@
+
+function numgrad
 function numgrad = computeNumericalGradient(J, theta)
 %COMPUTENUMERICALGRADIENT Computes the gradient using "finite differences"
 %and gives us a numerical estimate of the gradient.
